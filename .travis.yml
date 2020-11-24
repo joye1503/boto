@@ -13,6 +13,7 @@ matrix:
       dist: xenial
       python: "3.6"
     - os: linux
+      arch: arm64-graviton2
       dist: xenial
       group: edge
       virt: lxd
